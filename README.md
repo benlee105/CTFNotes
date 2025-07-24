@@ -1,2 +1,2 @@
 # CTFNotes
-Notes for CTFs
+Notes for CTFs in the Wiki --> https://github.com/benlee105/CTFNotes/wiki
